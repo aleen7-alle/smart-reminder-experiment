@@ -1,6 +1,6 @@
 # Capstone: Design and Evaluate the "Smart Reminder" Experiment on Injaz
 
-**Experimentation & Causal Inference — SDAIA Academy**
+**Experimentation & Causal Inference — [SDAIA Academy](https://sdaia.gov.sa/ar/Sectors/BuildingCapacity/academy/Pages/default.aspx)**
 
 **Name:** Aleen Mohammed
 
